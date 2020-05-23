@@ -28,7 +28,7 @@ struct groupes {       // POUR LA MANIPULATION GROUPES
 /* pourquoi le champ perso?: pour destinger les groupe personnels est les groupe crier par l admin
     -si le champ perso est a 1 le groupe est personnel:
         ie: 1-il ne peut contenir que un seul urilisateur
-            2-il porte le nom de cette utilisateur
+            2-il porte le nom de cette utilisateur    blablabal 
             3-il port les droit perso de cette utilisateur
             4-il est crier automatiquement
     -si il est a 0: il est un groupe public
